@@ -1,6 +1,6 @@
 
 ## How to work with [Your Name] (TEMPLATE)
-*This document is meant to give colleagues a quick rundown on my work preferences, and some context about my life. Feel free to edit the template and add whatever information feels important to you!*
+*This document is meant to give colleagues a quick rundown on my work preferences, and some context about my life. Feel free to edit the template and add whatever information feels important to you! You are free to use and share this template under Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5).*
 
 ### My work hours:
 *Are you a morning person? Or a night owl? When should someone expect to work with you? When will I be unavailable?*
