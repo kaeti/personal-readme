@@ -5,6 +5,8 @@ We set aside an hour one day to sit in a room together, eat snacks, and work on 
 
 [**Here's the template I created to get us started**](https://github.com/kaeti/personal-readme/blob/master/template.md).
 
+Feel free to use the template and remix, under Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5).
+
 **For inspiration, check out some of these examples:**
 
 * [Kaeti's README](https://github.com/kaeti/personal-readme/blob/master/kaeti.md)
